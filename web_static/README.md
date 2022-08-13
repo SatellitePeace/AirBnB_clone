@@ -18,7 +18,3 @@ All the .css stylesheets are situated in the [styles](./styles/) directory.
 **3. Images**
 
 All the icons and logos used for this project are in the [images](./images/) directory.
-
-## Author (solo project)
-
-Laura Roudge
